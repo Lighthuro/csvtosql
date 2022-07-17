@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csvtosql": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\tarth\\Downloads\\NetflixViewingHistory.csv ,"
+    }
+  }
+}
